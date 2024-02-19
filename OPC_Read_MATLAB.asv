@@ -1,0 +1,22 @@
+clear, clc
+
+%Connect to server
+da = opcda('localhost', 'Matrikon.OPC.Simulation.1');
+connect(da);
+
+%Create group
+grp = addgroup(da, 'Group1');
+
+%Add tags
+ItemList = {'Bucket Brigade.Real4'};
+item = additem(grp, ItemList);
+
+%Create loop
+for x = 1:10 
+    %Retrieve data
+    data = read(grp);
+    opcdata = data.Value;
+    fprintf('Real4 value : %d\n',x, opcdata);
+end
+
+
