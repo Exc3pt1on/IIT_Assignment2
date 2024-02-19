@@ -1,0 +1,26 @@
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\OPC Client.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\OPC Client.deps.json
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\OPC Client.runtimeconfig.json
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\OPC Client.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\OPC Client.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\Opc.UaFx.Advanced.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\System.Management.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\OPC Client.csproj.AssemblyReference.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\OPC Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\OPC Client.AssemblyInfoInputs.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\OPC Client.AssemblyInfo.cs
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\OPC Client.csproj.CoreCompileInputs.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\OPC Client.csproj.CopyComplete
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\OPC Client.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\refint\OPC Client.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\OPC Client.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\OPC Client.genruntimeconfig.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC Client\OPC Client\obj\Debug\net8.0\ref\OPC Client.dll
