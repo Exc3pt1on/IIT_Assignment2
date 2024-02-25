@@ -1,0 +1,30 @@
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\WinForm OPC UA Client.exe.config
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\WinForm OPC UA Client.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\WinForm OPC UA Client.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\NationalInstruments.Common.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\NationalInstruments.Common.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\obj\Debug\WinForm OPC UA Client.csproj.AssemblyReference.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\obj\Debug\WinForm_OPC_UA_Client.Properties.Resources.resources
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\obj\Debug\WinForm OPC UA Client.csproj.GenerateResource.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\obj\Debug\WinForm OPC UA Client.csproj.CoreCompileInputs.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\obj\Debug\WinForm OPC UA Client.csproj.CopyComplete
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\obj\Debug\WinForm OPC UA Client.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\obj\Debug\WinForm OPC UA Client.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\obj\Debug\WinForm_OPC_UA_Client.Form1.resources
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\Opc.UaFx.Client.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\System.Buffers.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\System.Memory.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\Opc.UaFx.Client.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\System.Buffers.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\System.Memory.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\WinForm OPC UA Client\WinForm OPC UA Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

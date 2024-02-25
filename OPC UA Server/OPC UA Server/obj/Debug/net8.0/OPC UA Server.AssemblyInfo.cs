@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OPC UA Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feac07b2f9273efcf6455763633e9491f9897a9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OPC UA Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OPC UA Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -24,3 +24,30 @@ C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\O
 C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.pdb
 C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.genruntimeconfig.cache
 C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC UA Server\OPC UA Server\obj\Debug\net8.0\ref\OPC UA Server.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\OPC UA Server.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\OPC UA Server.deps.json
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\OPC UA Server.runtimeconfig.json
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\OPC UA Server.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\OPC UA Server.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\Opc.UaFx.Advanced.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\System.Management.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.csproj.AssemblyReference.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.AssemblyInfoInputs.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.AssemblyInfo.cs
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.csproj.CoreCompileInputs.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.sourcelink.json
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.csproj.CopyComplete
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\refint\OPC UA Server.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\OPC UA Server.genruntimeconfig.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\obj\Debug\net8.0\ref\OPC UA Server.dll

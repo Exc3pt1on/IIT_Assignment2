@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OPC_UA_Server
-build_property.ProjectDir = C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\OPC UA Server\OPC UA Server\
+build_property.ProjectDir = C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 2\Programs\OPC UA Server\OPC UA Server\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
